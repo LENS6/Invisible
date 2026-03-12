@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "invisible"
+name = "Invisible"
+type = "add-on"
+tags = ["Object", "Rename", "Material"]
+tagline = "Object renaming and material assignment tool"
+maintainer = "Lenslance"
+license = ["GPL-3.0-or-later"]
+version = "1.0.0"
+blender_version_min = "4.2.0"
